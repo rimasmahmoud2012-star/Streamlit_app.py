@@ -71,7 +71,7 @@ $ curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
 1. Sync the dependencies
-
+streamlit run your_script.py
    ```
    $ uv sync
    ```
